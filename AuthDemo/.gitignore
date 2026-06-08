@@ -4,7 +4,12 @@
 *.suo
 *.userosscache
 *.sln.docstates
-
+*.db
+*.db-shm
+*.db-wal
+bin/
+obj/
+.vs/
 # Build folders
 bin/
 obj/
